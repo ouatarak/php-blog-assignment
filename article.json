@@ -1,0 +1,8 @@
+{
+    "article": [
+      { "id": 1, "title": "Covid Virus", "content": "ContentOne" },
+      { "id": 2, "title": "Mortgage in Canada", "content": "ContentTwo" },
+      { "id": 3, "title": "Job Market after Covid", "content": "ContentThree" },
+      { "id": 4, "title": "EI in Canada", "content": "ContentFour" }
+    ]
+  }
